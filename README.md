@@ -37,6 +37,8 @@
 ---
 
 ## 3) 環境需求 (Environment)
+
+```
 - Python ≥ 3.10
 - 建議以 `venv` 或 `conda` 建立隔離環境
 
@@ -49,9 +51,8 @@ source .venv/bin/activate   # Windows: .venv\Scripts\activate
 # 安裝相依
 pip install -r requirements.txt
 ```
-```
 
-> **Note:** 專案實際使用以 `notebooks/` 內導入之套件為準，上述為通用建議。
+
 
 ---
 
